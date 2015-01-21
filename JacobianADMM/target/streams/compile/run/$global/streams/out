@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mRunning com.lanchao.JacobianADMM.Main [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/Documents/JacobianADMM/target/scala-2.9.3/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.9.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/org.scalacheck/scalacheck_2.9.3/jars/scalacheck_2.9.3-1.10.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/org.scala-tools.testing/test-interface/jars/test-interface-0.5.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/org.scalatest/scalatest_2.9.3/jars/scalatest_2.9.3-1.9.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/org.scalanlp/breeze-math_2.9.2/jars/breeze-math_2.9.2-0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/org.scalanlp/breeze-core_2.9.2/jars/breeze-core_2.9.2-0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/com.thoughtworks.paranamer/paranamer/jars/paranamer-2.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/com.googlecode.netlib-java/netlib-java/jars/netlib-java-0.9.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/net.sourceforge.f2j/arpack_combined_all/jars/arpack_combined_all-0.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/org.scalanlp/jblas/jars/jblas-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/com.codecommit/anti-xml_2.9.1/jars/anti-xml_2.9.1-0.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/org.scalanlp/breeze-learn_2.9.2/jars/breeze-learn_2.9.2-0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/org.scalanlp/breeze-process_2.9.2/jars/breeze-process_2.9.2-0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/lanchao/.ivy2/cache/de.bwaldvogel/liblinear/jars/liblinear-1.8.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-23 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-23 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

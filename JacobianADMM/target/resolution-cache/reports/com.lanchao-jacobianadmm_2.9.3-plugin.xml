@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="com.lanchao"
+		module="jacobianadmm_2.9.3"
+		revision="0.1.0-SNAPSHOT"
+		conf="plugin"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20150119164937"/>
+	<dependencies>
+		<module organisation="com.foursquare.lint" name="linter_2.9.3">
+			<revision name="0.1-SNAPSHOT" status="integration" pubdate="20150119134841" resolver="Linter Repository" artresolver="Linter Repository" homepage="" downloaded="true" searched="true" default="false" conf="default(compile), default, compile, runtime, master" position="0">
+				<metadata-artifact status="successful" details="" size="1587" time="331" location="/Users/lanchao/.ivy2/cache/com.foursquare.lint/linter_2.9.3/ivy-0.1-SNAPSHOT.xml" searched="true" original-local-location="/Users/lanchao/.ivy2/cache/com.foursquare.lint/linter_2.9.3/ivy-0.1-SNAPSHOT.xml.original" origin-is-local="false" origin-location="https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/linter_2.9.3-0.1-SNAPSHOT.pom"/>
+				<caller organisation="com.lanchao" name="jacobianadmm_2.9.3" conf="plugin" rev="0.1-SNAPSHOT" rev-constraint-default="0.1-SNAPSHOT" rev-constraint-dynamic="0.1-SNAPSHOT" callerrev="0.1.0-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="linter_2.9.3" type="jar" ext="jar" status="successful" details="" size="443247" time="1532" location="/Users/lanchao/.ivy2/cache/com.foursquare.lint/linter_2.9.3/jars/linter_2.9.3-0.1-SNAPSHOT.jar">
+						<origin-location is-local="false" location="https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/linter_2.9.3-0.1-SNAPSHOT.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-compiler">
+			<revision name="2.9.3" status="release" pubdate="20130228092700" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="compile, runtime, compile(*), runtime(*), master(compile), master" position="2">
+				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html    "/>
+				<metadata-artifact status="no" details="" size="2665" time="0" location="/Users/lanchao/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.9.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.9.3/scala-compiler-2.9.3.pom"/>
+				<caller organisation="com.foursquare.lint" name="linter_2.9.3" conf="default, compile, runtime, master" rev="2.9.3" rev-constraint-default="2.9.3" rev-constraint-dynamic="2.9.3" callerrev="0.1-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="scala-compiler" type="jar" ext="jar" status="no" details="" size="11529584" time="0" location="/Users/lanchao/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.9.3.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.9.3/scala-compiler-2.9.3.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.9.3" status="release" pubdate="20130228092533" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master(compile), master" position="1">
+				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html          "/>
+				<metadata-artifact status="no" details="" size="2391" time="0" location="/Users/lanchao/.ivy2/cache/org.scala-lang/scala-library/ivy-2.9.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.3/scala-library-2.9.3.pom"/>
+				<caller organisation="com.foursquare.lint" name="linter_2.9.3" conf="default, compile, runtime, master" rev="2.9.3" rev-constraint-default="2.9.3" rev-constraint-dynamic="2.9.3" callerrev="0.1-SNAPSHOT"/>
+				<caller organisation="org.scala-lang" name="scala-compiler" conf="compile, runtime" rev="2.9.3" rev-constraint-default="2.9.3" rev-constraint-dynamic="2.9.3" callerrev="2.9.3"/>
+				<artifacts>
+					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="9039572" time="0" location="/Users/lanchao/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.9.3.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.9.3/scala-library-2.9.3.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>
