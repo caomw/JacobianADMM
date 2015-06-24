@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/Users/lanchao/Documents/JacobianADMM/}jacobianadmm...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/Users/lanchao/JacobianADMM/JacobianADMM/}jacobianadmm...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.9.3 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.9.3 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@22ffc505[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77bfee33[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.9.3[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.9.3 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT->org.scala-lang#scala-library;2.9.3 [compile->runtime][0m
@@ -1033,14 +1033,8 @@
 [0m[[0mdebug[0m] [0m		tried https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/linter_2.9.3-0.1-SNAPSHOT.pom[0m
 [0m[[0mdebug[0m] [0m	Linter Repository: found md file for com.foursquare.lint#linter_2.9.3;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m		=> https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/linter_2.9.3-0.1-SNAPSHOT.pom (0.1-SNAPSHOT)[0m
-[0m[[0mdebug[0m] [0m	default-cache: revision in cache is not up to date: com.foursquare.lint#linter_2.9.3;0.1-SNAPSHOT[0m
-[0m[[0mdebug[0m] [0mdownloading https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/linter_2.9.3-0.1-SNAPSHOT.pom ...[0m
-[0m[[0mdebug[0m] [0m	Linter Repository: downloading https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/linter_2.9.3-0.1-SNAPSHOT.pom[0m
-[0m[[0mdebug[0m] [0m	Linter Repository: downloading https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/linter_2.9.3-0.1-SNAPSHOT.pom.sha1[0m
-[0m[[0mdebug[0m] [0msha1 OK for https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/linter_2.9.3-0.1-SNAPSHOT.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.foursquare.lint#linter_2.9.3;0.1-SNAPSHOT!linter_2.9.3.pom(pom.original) (331ms)[0m
-[0m[[0mdebug[0m] [0mcom.foursquare.lint#linter_2.9.3;0.1-SNAPSHOT has changed: deleting old artifacts[0m
-[0m[[0mdebug[0m] [0m	found com.foursquare.lint#linter_2.9.3;0.1-SNAPSHOT in Linter Repository[0m
+[0m[[0mdebug[0m] [0m	default-cache: revision in cache (not updated): com.foursquare.lint#linter_2.9.3;0.1-SNAPSHOT[0m
+[0m[[0mdebug[0m] [0m	found com.foursquare.lint#linter_2.9.3;0.1-SNAPSHOT in sbt-chain[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT->com.foursquare.lint#linter_2.9.3;0.1-SNAPSHOT [plugin->runtime][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT->com.foursquare.lint#linter_2.9.3;0.1-SNAPSHOT [plugin->compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.foursquare.lint#linter_2.9.3;0.1-SNAPSHOT->org.scala-lang#scala-library;2.9.3 [compile->compile(*)][0m
@@ -1117,29 +1111,23 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] net.sourceforge.f2j#arpack_combined_all;0.1!arpack_combined_all.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scalanlp#breeze-process_2.9.2;0.2!breeze-process_2.9.2.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] de.bwaldvogel#liblinear;1.8!liblinear.jar[0m
-[0m[[0mdebug[0m] [0m	maven-metadata not available: https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/maven-metadata.xml[0m
-[0m[[0mdebug[0m] [0m		tried https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/linter_2.9.3-0.1-SNAPSHOT.jar[0m
-[0m[[0minfo[0m] [0mdownloading https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/linter_2.9.3-0.1-SNAPSHOT.jar ...[0m
-[0m[[0mdebug[0m] [0m	Linter Repository: downloading https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/linter_2.9.3-0.1-SNAPSHOT.jar[0m
-[0m[[0mdebug[0m] [0m	Linter Repository: downloading https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/linter_2.9.3-0.1-SNAPSHOT.jar.sha1[0m
-[0m[[0mdebug[0m] [0msha1 OK for https://hairyfotr.github.io/linteRepo/releases/com/foursquare/lint/linter_2.9.3/0.1-SNAPSHOT/linter_2.9.3-0.1-SNAPSHOT.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.foursquare.lint#linter_2.9.3;0.1-SNAPSHOT!linter_2.9.3.jar (1532ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.foursquare.lint#linter_2.9.3;0.1-SNAPSHOT!linter_2.9.3.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.9.3!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.9.3!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 3621ms :: artifacts dl 1562ms[0m
-[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT compile produced in /Users/lanchao/Documents/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT runtime produced in /Users/lanchao/Documents/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT test produced in /Users/lanchao/Documents/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT provided produced in /Users/lanchao/Documents/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT optional produced in /Users/lanchao/Documents/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT compile-internal produced in /Users/lanchao/Documents/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT runtime-internal produced in /Users/lanchao/Documents/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT test-internal produced in /Users/lanchao/Documents/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT plugin produced in /Users/lanchao/Documents/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT sources produced in /Users/lanchao/Documents/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT docs produced in /Users/lanchao/Documents/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT pom produced in /Users/lanchao/Documents/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT scala-tool produced in /Users/lanchao/Documents/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (3621ms resolve - 1562ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 4484ms :: artifacts dl 23ms[0m
+[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT compile produced in /Users/lanchao/JacobianADMM/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT runtime produced in /Users/lanchao/JacobianADMM/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT test produced in /Users/lanchao/JacobianADMM/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT provided produced in /Users/lanchao/JacobianADMM/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT optional produced in /Users/lanchao/JacobianADMM/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT compile-internal produced in /Users/lanchao/JacobianADMM/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT runtime-internal produced in /Users/lanchao/JacobianADMM/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT test-internal produced in /Users/lanchao/JacobianADMM/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT plugin produced in /Users/lanchao/JacobianADMM/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT sources produced in /Users/lanchao/JacobianADMM/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT docs produced in /Users/lanchao/JacobianADMM/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT pom produced in /Users/lanchao/JacobianADMM/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.lanchao#jacobianadmm_2.9.3;0.1.0-SNAPSHOT scala-tool produced in /Users/lanchao/JacobianADMM/JacobianADMM/target/resolution-cache/reports/com.lanchao-jacobianadmm_2.9.3-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (4484ms resolve - 23ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

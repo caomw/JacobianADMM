@@ -6,8 +6,7 @@ import breeze.linalg.{DenseVector => BDV, DenseMatrix => BDM}
 
 
 trait Update {
-  def Update (A: BDM[Double],
-               z: BDV[Double],
+  def Update ( z: BDV[Double],
                x_old: BDV[Double],
                rho: Double): BDV[Double]
   

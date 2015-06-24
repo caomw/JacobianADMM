@@ -1,0 +1,501 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+21 items
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$1.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$2.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$3.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$run$1.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$run$2.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$run$3.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$run$4.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$run$5.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$Params$.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$Params.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/LinearObj$$anonfun$1.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/LinearObj$.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/LinearObj.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/RDF$$anonfun$Update$1.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/RDF$$anonfun$dApply$1.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/RDF$$anonfun$dApply$2.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/RDF$$anonfun$numDeps$1.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/RDF.class
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/Update.class
+binary dependencies:
+15 items
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/.ivy2/cache/org.scalanlp/breeze_2.10/jars/breeze_2.10-0.7.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> /Users/lanchao/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> /Users/lanchao/.ivy2/cache/org.scalanlp/breeze_2.10/jars/breeze_2.10-0.7.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> /Users/lanchao/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> /Users/lanchao/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> /Users/lanchao/.ivy2/cache/org.scalanlp/breeze_2.10/jars/breeze_2.10-0.7.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> /Users/lanchao/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> /Users/lanchao/.ivy2/cache/org.scalanlp/breeze_2.10/jars/breeze_2.10-0.7.jar
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> /Users/lanchao/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+5 items
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+1 items
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> /Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala
+inheritance external dependencies:
+0 items
+class names:
+21 items
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> com.lanchao.JacobianADMMSpark.Main
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> com.lanchao.JacobianADMMSpark.Main$
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> com.lanchao.JacobianADMMSpark.Main$$anonfun$1
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> com.lanchao.JacobianADMMSpark.Main$$anonfun$2
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> com.lanchao.JacobianADMMSpark.Main$$anonfun$3
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> com.lanchao.JacobianADMMSpark.Main$$anonfun$run$1
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> com.lanchao.JacobianADMMSpark.Main$$anonfun$run$2
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> com.lanchao.JacobianADMMSpark.Main$$anonfun$run$3
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> com.lanchao.JacobianADMMSpark.Main$$anonfun$run$4
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> com.lanchao.JacobianADMMSpark.Main$$anonfun$run$5
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> com.lanchao.JacobianADMMSpark.Main$Params
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> com.lanchao.JacobianADMMSpark.Main$Params$
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> functions.LinearObj
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> functions.LinearObj$
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> functions.LinearObj$$anonfun$1
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> functions.RDF
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> functions.RDF$$anonfun$Update$1
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> functions.RDF$$anonfun$dApply$1
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> functions.RDF$$anonfun$dApply$2
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> functions.RDF$$anonfun$numDeps$1
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> functions.Update
+used names:
+242 items
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> &&
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> *
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> +
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> -
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> <
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> <init>
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> ==
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> A
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> AbstractFunction4
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> AnyRef
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Array
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Ax
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> BDM
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> BDV
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Broadcast
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> ClassTag
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> DefaultArrayValue
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> DenseMatrix
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> DenseMatrixDMulDenseVectorD
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> DenseVector
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Double
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> DoubleDefaultArrayValue
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Int
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> JacobianADMMSpark
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> LinearObj
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Main
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> None
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Params
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Predef
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Product
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> RDD
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> ScalaRunTime
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Semiring
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Serializable
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> SparkConf
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> SparkContext
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Statics
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> String
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Unit
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> Update
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> _1
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> _2
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> _toString
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> apache
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> apply
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> asInstanceOf
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> b
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> blockheight
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> breeze
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> broadcast
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> c
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> cache
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> canAddD
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> canSubD
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> collect
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> com
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> conf
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> dApply
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> done
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> doubleHash
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> dv_s_Op_Double_OpMulMatrix
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> eq
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> eye
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> f
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> finalizeHash
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> foreach
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> fromLocal
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> functions
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> intWrapper
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> isInstanceOf
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> lambda
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> lanchao
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> linalg
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> map
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> materializeClassTag
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> math
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> maxiters
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> mix
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> numblocks
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> numerics
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> ones
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> operators
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> org
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> package
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> parallelize
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> params
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> println
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> rdd
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> reduce
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> refArrayOps
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> rho
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> run
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> runtime
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> sc
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> scala
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> semiringD
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> setAppName
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> setMaster
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> spark
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> splits
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> stop
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> storage
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> to
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> toString
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> typedProductIterator
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> value
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> while$1
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> x
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> z
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> zb
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> zeros
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> zip
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> ||
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> *
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> +
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> -
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> <init>
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> A
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> AnyRef
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> BDM
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> BDV
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> ClassTag
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> DefaultArrayValue
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> DenseMatrix
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> DenseMatrixCanSolveDenseVector
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> DenseMatrixDMulDenseMatrixD
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> DenseMatrixDMulDenseVectorD
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> DenseVector
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> Double
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> DoubleDefaultArrayValue
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> Function1
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> I
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> Int
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> LinearObj
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> RDD
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> RDF
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> Semiring
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> Serializable
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> Update
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> \
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> a
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> apache
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> apply
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> b
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> breeze
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> c
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> canAddD
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> canDotD
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> canSubD
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> canTranspose
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> cols
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> dimension
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> dot
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> dv_s_Op_Double_OpMulMatrix
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> eye
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> fns
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> functions
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> linalg
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> map
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> materializeClassTag
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> math
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> op_DM_DM_Double_OpAdd
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> op_DM_S_Double_OpMulMatrix
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> org
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> package
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> rdd
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> rho
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> scala
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> semiringD
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> spark
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> storage
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> t
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> x
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> x_old
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> z
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> +
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> <init>
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> ==
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> A
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> Any
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> BDM
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> BDV
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> ClassTag
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> DenseMatrix
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> DenseVector
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> Double
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> F
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> Function1
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> Int
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> Logging
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> Long
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> Nothing
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> Predef
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> RDD
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> RDF
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> Serializable
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> Update
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> _1
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> _2
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> _3
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> _root_
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> apache
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> apply
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> breeze
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> count
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> dep
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> dependencies
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> fn
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> foreach
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> functions
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> linalg
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> map
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> materializeClassTag
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> nDeps
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> nSplits
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> nSplits_=
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> ne
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> numDeps
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> org
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> package
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> println
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> rdd
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> reduce
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> rho
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> scala
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> spark
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> splits
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> x
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> x_i
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> x_old
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> z
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> zip
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> AnyRef
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> BDM
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> BDV
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> DenseMatrix
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> DenseVector
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> Double
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> breeze
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> functions
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> linalg
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> scala
+product stamps:
+21 items
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$1.class -> lastModified(1424241855000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$2.class -> lastModified(1424241855000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$3.class -> lastModified(1424241855000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$run$1.class -> lastModified(1424241855000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$run$2.class -> lastModified(1424241855000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$run$3.class -> lastModified(1424241855000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$run$4.class -> lastModified(1424241855000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$$anonfun$run$5.class -> lastModified(1424241855000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$.class -> lastModified(1424241855000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$Params$.class -> lastModified(1424241855000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main$Params.class -> lastModified(1424241855000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/com/lanchao/JacobianADMMSpark/Main.class -> lastModified(1424241855000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/LinearObj$$anonfun$1.class -> lastModified(1424241990000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/LinearObj$.class -> lastModified(1424241989000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/LinearObj.class -> lastModified(1424241990000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/RDF$$anonfun$Update$1.class -> lastModified(1424134561000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/RDF$$anonfun$dApply$1.class -> lastModified(1424134561000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/RDF$$anonfun$dApply$2.class -> lastModified(1424134561000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/RDF$$anonfun$numDeps$1.class -> lastModified(1424134561000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/RDF.class -> lastModified(1424134561000)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/target/scala-2.10/classes/functions/Update.class -> lastModified(1424133739000)
+source stamps:
+4 items
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> hash(54876c769019b5faa5cde73a35e268c9b5a43a2a)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> hash(c2cab9eca7e39c3ab8f74a7d307bbc84398a4b56)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> hash(e24ce56ead3e4891a91d0f8bbafa7bd171ec1382)
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> hash(1879ff5267ff7ca8891a8e5267c56eba74621b81)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1411773837000)
+/Users/lanchao/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar -> lastModified(1418205503000)
+/Users/lanchao/.ivy2/cache/org.scalanlp/breeze_2.10/jars/breeze_2.10-0.7.jar -> lastModified(1395253355000)
+/Users/lanchao/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/lanchao/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar -> org.apache.spark.rdd.RDD
+/Users/lanchao/.ivy2/cache/org.scalanlp/breeze_2.10/jars/breeze_2.10-0.7.jar -> breeze.storage.DefaultArrayValue$
+/Users/lanchao/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Serializable
+internal apis:
+4 items
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCIyWXuAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCbpAfh0AAZub3RpZnlzcQB+AAzr08ETdAAHdW5hcHBseXNxAH4ADPF+4Mt0AAdjdXJyaWVkc3EAfgAM3NlQunQABHdhaXRzcQB+AAz4pQVxdAAPYXBwbHkkZGVmYXVsdCQ0c3EAfgAM175ManQADmNvcHkkZGVmYXVsdCQyc3EAfgAMLo6W2HQADSRhc0luc3RhbmNlT2ZzcQB+AAyB2RwHdAAQPGluaXQ+JGRlZmF1bHQkMXNxAH4ADFq0pVN0AAxwcm9kdWN0QXJpdHlzcQB+AAztoegbdAAGZXF1YWxzc3EAfgAM9+MSmnQADGFzSW5zdGFuY2VPZnNxAH4ADJuBO6Z0AANydW5zcQB+AAxiiDOMdAAGcGFyYW1zc3EAfgAMBFCmZ3QADHN5bmNocm9uaXplZHNxAH4ADHUZi+p0AA0kaXNJbnN0YW5jZU9mc3EAfgAMbGwthHQAD2FwcGx5JGRlZmF1bHQkM3NxAH4ADJ312jJ0ABA8aW5pdD4kZGVmYXVsdCQ0c3EAfgAMQ1iZN3QABnR1cGxlZHNxAH4ADFMIGSx0AAtibG9ja2hlaWdodHNxAH4ADKTRqT90AAZQYXJhbXNzcQB+AAxNv0LZdAAIY2FuRXF1YWxzcQB+AAwqm5u6dAAOY29weSRkZWZhdWx0JDRzcQB+AAyv3FDMdAAEbWFpbnNxAH4ADHyqK9Z0AA1wcm9kdWN0UHJlZml4c3EAfgAMxCUNUHQACW5vdGlmeUFsbHNxAH4ADInjb/B0AAtyZWFkUmVzb2x2ZXNxAH4ADOmXJjZ0AAxpc0luc3RhbmNlT2ZzcQB+AAwW3XJQdAAQPGluaXQ+JGRlZmF1bHQkM3NxAH4ADK9H9q10AAY8aW5pdD5zcQB+AAwH2Ih5dAAPYXBwbHkkZGVmYXVsdCQyc3EAfgAMd2B233QABWFwcGx5c3EAfgAMWcorOnQAAj09c3EAfgAMa72pLHQABWNsb25lc3EAfgAMSu15ZXQACW51bWJsb2Nrc3NxAH4ADLkZSM50AA5jb3B5JGRlZmF1bHQkM3NxAH4ADFHVC1R0AARjb3B5c3EAfgAMIjc+EnQAA3Job3NxAH4ADPcC+tR0AA9hcHBseSRkZWZhdWx0JDFzcQB+AAwkpK7wdAAETWFpbnNxAH4ADDEeE0Z0AAh0b1N0cmluZ3NxAH4ADPfoZgV0AAIhPXNxAH4ADKDVDDl0AAhnZXRDbGFzc3NxAH4ADObg9O90AA5jb3B5JGRlZmF1bHQkMXNxAH4ADEJ3vUZ0AAJuZXNxAH4ADJdL9r90ABA8aW5pdD4kZGVmYXVsdCQyc3EAfgAMfk7eqXQAAmVxc3EAfgAMIvmVO3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADOMk+fB0AAhtYXhpdGVyc3NxAH4ADITirT50AAIjI3NxAH4ADCaHYqV0AAhmaW5hbGl6ZXNxAH4ADEs1lqJ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADGNS//J0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AH94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACJjb20ubGFuY2hhby5KYWNvYmlhbkFETU1TcGFyay5NYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCXAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB/TAAJaW5oZXJpdGVkcQB+AH9MAAdwYXJlbnRzcQB+AH94cQB+AJ5zcQB+AJcBdXEAfgB6AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCAcQB+AIl1cQB+AIoAAAAAc3EAfgCMAHEAfgA7dXEAfgCPAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJ10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4ApnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AknQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ArVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AnXNxAH4ArHQABUFycmF5cQB+ALJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ArHQABlN0cmluZ3NxAH4AsHNxAH4As3VxAH4AtgAAAANzcQB+ALh0AARqYXZhc3EAfgC4dAAEbGFuZ3EAfgC9cHNxAH4AlwF1cQB+AHoAAAAAcHNxAH4AlwF1cQB+ANEAAAACc3EAfgCsdAAGT2JqZWN0cQB+ANVzcQB+AKx0AANBbnlxAH4AsnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAdY29tLmxhbmNoYW8uSmFjb2JpYW5BRE1NU3BhcmtzcQB+AOZ0AANjb21zcQB+AOZ0AAtjb20ubGFuY2hhb3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ttvj11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABHL1VzZXJzL2xhbmNoYW8vSmFjb2JpYW5BRE1NL0phY29iaWFuQURNTVNwYXJrL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRUh2x2kBm1+qXN5zo14mjJtaQ6Kg==
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDyWi6DAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJCqNkR0AAZub3RpZnlzcQB+AAyS1jiQdAAEd2FpdHNxAH4ADI2NvkZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMPMcuJXQAB2NvbXBvc2VzcQB+AAzcGfqjdAAGZXF1YWxzc3EAfgAMp6kL2XQABlVwZGF0ZXNxAH4ADOHANLd0AAxhc0luc3RhbmNlT2ZzcQB+AAyIiorWdAAMc3luY2hyb25pemVkc3EAfgAMlZs6YXQADSRpc0luc3RhbmNlT2ZzcQB+AAzmhh3odAAHYW5kVGhlbnNxAH4ADFaDVzl0AAlub3RpZnlBbGxzcQB+AAyzS5XvdAALcmVhZFJlc29sdmVzcQB+AAzEVW1WdAAMaXNJbnN0YW5jZU9mc3EAfgAMm8KPKHQABjxpbml0PnNxAH4ADA2CJYV0AAVhcHBseXNxAH4ADCycHQF0AAI9PXNxAH4ADM3wAf50AAVjbG9uZXNxAH4ADFyEaFJ0AAlMaW5lYXJPYmpzcQB+AAwRdQpjdAAIdG9TdHJpbmdzcQB+AAywTa3pdAACIT1zcQB+AAx4AVKQdAABY3NxAH4ADH3fvMx0AAhnZXRDbGFzc3NxAH4ADMyPtSF0AAJuZXNxAH4ADLJl32Z0AAlmcm9tTG9jYWxzcQB+AAyF8jQNdAACZXFzcQB+AAyXpM//dAACIyNzcQB+AAwgiT2RdAAIZmluYWxpemVzcQB+AAzLTW8idAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAATZnVuY3Rpb25zLkxpbmVhck9ianVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAHnNjYWxhLmFubm90YXRpb24udW5zcGVjaWFsaXplZHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBoAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AG9zcQB+AGgBdXEAfgBKAAAAAHBzcQB+AGgBdXEAfgBKAAAAAHBzcQB+AGgBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBudAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBuc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCIc3EAfgB7cQB+AH5zcQB+AH9zcQB+AIJ1cQB+AIUAAAADc3EAfgCHdAAEamF2YXNxAH4Ah3QAAmlvcQB+AIxzcQB+AHt0AAZVcGRhdGVzcQB+AH9zcQB+AIJ1cQB+AIUAAAACc3EAfgCHdAAJZnVuY3Rpb25zcQB+AIxzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AG5zcQB+AHt0AAlGdW5jdGlvbjFxAH4AgXVxAH4AeQAAAAJzcQB+AJxzcQB+AHt0AAtEZW5zZVZlY3RvcnNxAH4Af3NxAH4AgnVxAH4AhQAAAANzcQB+AId0AAZicmVlemVzcQB+AId0AAZsaW5hbGdxAH4AjHVxAH4AeQAAAAFzcQB+AHt0AAZEb3VibGVxAH4AgXEAfgCtc3EAfgB7dAAGT2JqZWN0c3EAfgB/c3EAfgCCdXEAfgCFAAAAA3NxAH4Ah3EAfgCSc3EAfgCHdAAEbGFuZ3EAfgCMc3EAfgB7dAADQW55cQB+AIFwcHNxAH4ATHEAfgBZdXEAfgBaAAAAAHNxAH4AXAB0ABNmdW5jdGlvbnMuTGluZWFyT2JqdXEAfgBfAAAAAH5xAH4AYXQABk1vZHVsZXVxAH4AZQAAAABzcQB+AGgBcQB+AHBwc3EAfgBoAXNxAH4AcnNxAH4AaAF1cQB+AEoAAAAAcHNxAH4AaAF1cQB+AEoAAAAAcHNxAH4AaAF1cQB+AHkAAAAEc3EAfgB7cQB+AH5zcQB+AH9zcQB+AIJ1cQB+AIUAAAACc3EAfgCHcQB+AIpxAH4AjHNxAH4Ae3EAfgB+c3EAfgB/c3EAfgCCdXEAfgCFAAAAA3NxAH4Ah3EAfgCSc3EAfgCHdAACaW9xAH4AjHNxAH4Ae3EAfgCwc3EAfgB/c3EAfgCCdXEAfgCFAAAAA3NxAH4Ah3EAfgCSc3EAfgCHcQB+ALZxAH4AjHNxAH4Ae3EAfgC4cQB+AMtwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWZ1bmN0aW9uc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5tv5mx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABHL1VzZXJzL2xhbmNoYW8vSmFjb2JpYW5BRE1NL0phY29iaWFuQURNTVNwYXJrL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTCyrnsp+OcOrj3Sn0we7yEOYpLVg==
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCu7HjYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPic6/90AAZub3RpZnlzcQB+AAxG1UyDdAAEd2FpdHNxAH4ADM+ukTF0AANSREZzcQB+AAyz4RMddAANJGFzSW5zdGFuY2VPZnNxAH4ADGxreWd0AAdjb21wb3Nlc3EAfgAMqCsPNnQAB25TcGxpdHNzcQB+AAwFvFkkdAAGZXF1YWxzc3EAfgAM0Wv+1nQABlVwZGF0ZXNxAH4ADEWS4Rl0AAxhc0luc3RhbmNlT2ZzcQB+AAzUPl4GdAAEbG9nX3NxAH4ADBD+RFl0AAxzeW5jaHJvbml6ZWRzcQB+AAyh1/STdAANJGlzSW5zdGFuY2VPZnNxAH4ADK6OiTx0AAdhbmRUaGVuc3EAfgAMT3vc1HQACGxvZ1RyYWNlc3EAfgAMgPdK3nQADmlzVHJhY2VFbmFibGVkc3EAfgAM47WS5XQAB2xvZ05hbWVzcQB+AAwLwLZ/dAAJbm90aWZ5QWxsc3EAfgAMemgni3QADGlzSW5zdGFuY2VPZnNxAH4ADAzGdtp0AAY8aW5pdD5zcQB+AAwv1QkNdAAGc3BsaXRzc3EAfgAMsWruJnQABWFwcGx5c3EAfgAMFxqGRHQAAj09c3EAfgAMFnGBMHQABWNsb25lc3EAfgAMmQKOmXQAB251bURlcHNzcQB+AAyjjhgJdAAJbnVtU3BsaXRzc3EAfgAMCTIepHQACHRvU3RyaW5nc3EAfgAMHiEmRXQABmRBcHBseXNxAH4ADDyZtNh0AAhsb2dFcnJvcnNxAH4ADLdHlNN0AAIhPXNxAH4ADBBVZdN0AAhnZXRDbGFzc3NxAH4ADB7TkjZ0AApsb2dXYXJuaW5nc3EAfgAM/qdbtHQAFWluaXRpYWxpemVJZk5lY2Vzc2FyeXNxAH4ADMeeS4B0AAJuZXNxAH4ADIUBAzR0AAJlcXNxAH4ADPtNqp90AANsb2dzcQB+AAzPWWa8dAACIyNzcQB+AAw5eb0ldAAIZmluYWxpemVzcQB+AAwzsxWVdAAIaGFzaENvZGVzcQB+AAxIS7N2dAAIbG9nRGVidWdzcQB+AAzxswvddAAHbG9nSW5mb3NxAH4ADPc3DKR0ABFpbml0aWFsaXplTG9nZ2luZ3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA1mdW5jdGlvbnMuUkRGdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAFzcgAXeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXJnaVXb43KQawIABlsAC2Fubm90YXRpb25zcQB+AG5MAAJpZHEAfgANTAAKbG93ZXJCb3VuZHQAEEx4c2J0aS9hcGkvVHlwZTtbAA50eXBlUGFyYW1ldGVyc3EAfgBrTAAKdXBwZXJCb3VuZHEAfgB8TAAIdmFyaWFuY2V0ABRMeHNidGkvYXBpL1ZhcmlhbmNlO3hwdXEAfgB0AAAAAHQAD2Z1bmN0aW9ucy5SREYuRnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCDc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCQdXEAfgB5AAAAAHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIRzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAF1cQB+AGQAAAAAcHNxAH4AmAF1cQB+AGQAAAAAcHNxAH4AmAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNxAH4AgXQABlVwZGF0ZXNxAH4Ah3NxAH4AinVxAH4AjQAAAAJzcQB+AI90AAlmdW5jdGlvbnNxAH4AlHNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AglsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ag3NxAH4AgXQACUZ1bmN0aW9uMXNxAH4Ah3NxAH4AinVxAH4AjQAAAAJzcQB+AI9xAH4AknEAfgCUdXEAfgChAAAAAnNxAH4AqnNxAH4AgXQAC0RlbnNlVmVjdG9yc3EAfgCHc3EAfgCKdXEAfgCNAAAAA3NxAH4Aj3QABmJyZWV6ZXNxAH4Aj3QABmxpbmFsZ3EAfgCUdXEAfgChAAAAAXNxAH4AgXQABkRvdWJsZXEAfgCvcQB+AL9zcQB+AIF0AAZPYmplY3RzcQB+AIdzcQB+AIp1cQB+AI0AAAADc3EAfgCPdAAEamF2YXNxAH4Aj3QABGxhbmdxAH4AlHNxAH4AgXQAA0FueXEAfgCvcH5yABJ4c2J0aS5hcGkuVmFyaWFuY2UAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAlJbnZhcmlhbnR+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cQB+AM10AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AB5zY2FsYS5hbm5vdGF0aW9uLnVuc3BlY2lhbGl6ZWRzcQB+AJgAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHEAfgCDc3EAfgCYAXNxAH4AlnNxAH4AmAF1cQB+AGQAAAAAcHNxAH4AmAF1cQB+AGQAAAAAcHNxAH4AmAF1cQB+AKEAAAAGc3EAfgCBdAAHTG9nZ2luZ3NxAH4Ah3NxAH4AinVxAH4AjQAAAARzcQB+AI90AANvcmdzcQB+AI90AAZhcGFjaGVzcQB+AI90AAVzcGFya3EAfgCUc3EAfgCBdAAMU2VyaWFsaXphYmxlc3EAfgCHc3EAfgCKdXEAfgCNAAAAAnNxAH4Aj3EAfgCScQB+AJRzcQB+AIFxAH4A73NxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI9xAH4Ax3NxAH4Aj3QAAmlvcQB+AJRzcQB+AKpzcQB+AIF0AAlGdW5jdGlvbjFxAH4A8HVxAH4AoQAAAAJzcQB+AKpzcQB+AIF0AAtEZW5zZVZlY3RvcnNxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI90AAZicmVlemVzcQB+AI90AAZsaW5hbGdxAH4AlHVxAH4AoQAAAAFzcQB+AIFxAH4AwHEAfgDwcQB+AQpzcQB+AIFxAH4AwnNxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI9xAH4Ax3NxAH4Aj3EAfgDJcQB+AJRzcQB+AIFxAH4Ay3EAfgDwcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAlmdW5jdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUuVCLd3dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU4kzlbq0+SJGpHQ+Luvp70XHsE4I=
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAt89T2AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJGZE9F0AAZub3RpZnlzcQB+AAx/mu23dAAEd2FpdHNxAH4ADKJ97jZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAM1MsMQXQABmVxdWFsc3NxAH4ADHdJwzR0AAZVcGRhdGVzcQB+AAx3JRkVdAAMYXNJbnN0YW5jZU9mc3EAfgAMuTTIO3QADHN5bmNocm9uaXplZHNxAH4ADOVLss50AA0kaXNJbnN0YW5jZU9mc3EAfgAM1gj4V3QACW5vdGlmeUFsbHNxAH4ADAJJLnR0AAxpc0luc3RhbmNlT2ZzcQB+AAyaL5aZdAACPT1zcQB+AAy2TP6UdAAFY2xvbmVzcQB+AAw3UBD2dAAIdG9TdHJpbmdzcQB+AAzUjJTFdAACIT1zcQB+AAxFMzfjdAAIZ2V0Q2xhc3NzcQB+AAzKy09GdAACbmVzcQB+AAxsfPfudAACZXFzcQB+AAzYM2yKdAACIyNzcQB+AAy+Ka5CdAAIZmluYWxpemVzcQB+AAw7GH9BdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgA/eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAQZnVuY3Rpb25zLlVwZGF0ZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AVwBwc3EAfgBcc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AD9MAAlpbmhlcml0ZWRxAH4AP0wAB3BhcmVudHNxAH4AP3hxAH4AYHNxAH4AVwBwc3EAfgBcdXEAfgA6AAAAAHNxAH4AVwBwc3EAfgBcdXEAfgA6AAAAAHNxAH4AVwBwc3EAfgBcdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAlmdW5jdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUuU/DrIdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGHn/Umf/fKiJGo5SZ8VuunRiG4E=
+external apis:
+0 items
+source infos:
+4 items
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/Main.scala -> 
+AAAAAAAAAAA=
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/LinearObj.scala -> 
+AAAAAAAAAAA=
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/RDF.scala -> 
+AAAAAAAAAAA=
+/Users/lanchao/JacobianADMM/JacobianADMMSpark/src/main/scala/functions/Update.scala -> 
+AAAAAAAAAAA=
+compilations:
+87 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSwTDCL91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9sYW5jaGFvL0RvY3VtZW50cy9KYWNvYmlhbkFETU0vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSwTLnZ11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9sYW5jaGFvL0RvY3VtZW50cy9KYWNvYmlhbkFETU0vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSwTM/Qt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9sYW5jaGFvL0RvY3VtZW50cy9KYWNvYmlhbkFETU0vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzfd6H11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzffpgt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzfhKuh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzfiovt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzwgbOh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzwhHAB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzwh2AB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzwink11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzwkUMR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzwlcdR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzwmpNB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzwoWZR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzwsWgN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzwtkut1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzwuS5B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzxFqMt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzxJfBl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzxPi6B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzxQYhh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzzOW/Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzzSElt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzzVEQt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzzY1Vt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzzaEG11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzzfwZh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzzjEHZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzzkm951cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzzlkJ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzznkvx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSzzn9G11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz0JnKZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz0Kf6V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz0LGJ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz0LdGF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz0NKCx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz0Pulh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz0XK+t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+40 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz0YTuZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+41 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz0iDRZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+42 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz0i1nB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+43 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz0jSBt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+44 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz0mA6x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+45 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz2Ji3F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+46 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz2MsVB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+47 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz2O5OF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+48 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz2VJZ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+49 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz2VYQ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+50 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz2ZhJh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+51 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz2cNRJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+52 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz2n2mt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+53 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSz2odkp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+54 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5T8Osh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+55 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5T+mhd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+56 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5UIt3d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+57 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5UI30x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+58 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5UJxkR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+59 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ULgXF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+60 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5UOnFJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+61 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5YmRo91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+62 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5Yp5W51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+63 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5YrAc51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+64 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5Y+hLl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+65 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5Y/Vxp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+66 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ZBzWp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+67 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ZCd8B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+68 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ZEXc51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+69 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ZOixZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+70 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ZQdRZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+71 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ZUgmx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+72 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ZWBXR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+73 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ZrI3N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+74 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5Zu4CB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+75 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ZvoS11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+76 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5o2ipN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+77 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5o3pOV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+78 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5o4NG91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+79 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5tdItZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+80 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5tiJN91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+81 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ti8yN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+82 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5tjvVx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+83 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5tksK11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+84 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5tpdi91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+85 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5ttvj11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+86 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS5tv5mx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9Vc2Vycy9sYW5jaGFvL0phY29iaWFuQURNTS9KYWNvYmlhbkFETU1TcGFyay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
